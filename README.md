@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/Furlangit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furlangit&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furlangit&theme=react&show_icons=true" />
 </a>
 
 <br/>
